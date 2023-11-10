@@ -41,15 +41,15 @@ Welcome to post-random-topic-bot — a versatile Telegram bot for generating and
 ## Functionality Overview:
 
 1. **Sending Random Posts to Channel:**
-   - Command: `/sendposttochannel`
+   - Command: `/send_post_to_channel`
    - Sends a random post to the designated channel.
 
 1. **Getting Random Posts from Bot:**
-   - Command: `/getrandompost`
+   - Command: `/get_random_post`
    - Retrieves a random post from the bot.
 
 1. **Generating Posts Based on Topics:**
-   - Command: `/getpostwithtopic <topic>`
+   - Command: `/get_post_with_topic <topic>`
    - Generates a post based on the user-inputted topic.
 
 1. **Pinging the Bot:**
