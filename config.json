@@ -1,0 +1,7 @@
+{
+    "bot_token": "",
+    "allowed_user_name": "",
+    "channel_id": "",
+    "openai_api_key": "",
+    "openai_system_prompt": "Using the theme, create a title for the post and post"
+}
